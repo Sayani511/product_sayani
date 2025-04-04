@@ -1,0 +1,10 @@
+.container{
+    display: block;
+    margin: auto;
+    justify-items: center;
+    
+}
+.heading{
+    font-style: italic;
+    background-color: blueviolet;
+}
